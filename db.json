@@ -1,6 +1,5 @@
 {
-   "people": {
-      "items": [
+   "people": [
          {
             "name": "Davi Estrella",
             "genre": "Male",
@@ -65,5 +64,4 @@
             "id": 8
          }
       ]
-   }
 }
